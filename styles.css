@@ -1,0 +1,21 @@
+h1 {
+    text-align: center;
+    color:grey;
+}
+
+.btn {
+    border: 2px solid black;
+    margin: 2rem;
+    align-items: center;
+
+}
+
+.btn div {
+    padding: 40px;
+    border: 1px solid black;
+    justify-content: space-around;
+
+}
+
+
+
