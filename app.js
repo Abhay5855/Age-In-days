@@ -8,6 +8,8 @@ function calculateAge() {
 
     var h3 = document.createElement('h3')
 
+    var text = document.createTextNode("You are " + calculation + " days old");
+
 
 }
 
