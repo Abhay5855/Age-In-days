@@ -1,6 +1,10 @@
 
+function calculateAge() {
+
+    var userAge = prompt("Hey! please enter the year you were born ")
 
 
-var userAge = prompt("Hey! please enter the year you were born ")
+}
+
 
 
