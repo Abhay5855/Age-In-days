@@ -6,6 +6,9 @@ function calculateAge() {
     var calculation = (2020 - userAge) * 365;
 
 
+    var h3 = document.createElement('h3')
+
+
 }
 
 
