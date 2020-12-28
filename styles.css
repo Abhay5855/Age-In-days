@@ -1,21 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Audiowide&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Audiowide&display=swap');
+
 h1 {
     text-align: center;
-    color:grey;
+    color:#4C1D95;
+    font-family: 'Audiowide', cursive;
+    font-size:40px;
+    margin: 0.5rem;
+    
 }
 
 .btn {
-    border: 2px solid black;
-    margin: 2rem;
+   
+    margin: 0,5rem;
     align-items: center;
 
 }
 
 .btn div {
-    padding: 40px;
-    border: 1px solid black;
+    padding: 15px;
+   
     justify-content: space-around;
 
 }
 
+h3 {
+    text-align: center;
+    color: darkblue;
+    font-size: 25px;
+}
+
+body {
+    margin: 0 auto;
+    width: 60%;
+    display: block;
+    background-color: #DBEAFE;
+}
+    
+
+img {
+    display:block;
+    width:200px;
+    margin-right:auto;
+    margin-left: auto;
+    border:3px solid black;
+   
+}
+
+
+#primary {
+    background-color: #059669;
+    /* padding:  10px 30px 10px 30px; */
+    margin:  0.5rem;
+    font-size: 30px;
+    color: white;
+}
+
+#secondary {
+    background-color:tomato;
+    /* padding: 10px 30px 10px 30px; */
+    font-size: larger;
+    margin:0.5rem;
+    color: white;
+    font-size: 30px;
+}
+
+.button {
+    text-align: center;
+    
+}
+
+.input {
+    text-align: center ;
+    align-items: center;
+    display: block;
+    border: 3px solid black;
+    color: #DC2626;
+    font-size: 30px;
+    padding: 0px 6px 0px 6px;
+    margin: 3rem;
+    background-color: #FCD34D;
+
+
+   
+    
+}
 
 
